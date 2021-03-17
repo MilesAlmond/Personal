@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -File C:\Users\Alison\Documents\WatfordWeatherSociety\3\EmailGraphs.ps1
