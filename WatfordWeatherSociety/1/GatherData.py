@@ -35,5 +35,5 @@ for i in range(0,lastMonthLength):
                                         'TotalRainfall','AveragePressure'
                                         ])
 
-    pd.DataFrame.to_csv(df,'USER_PATHXXX/{}.csv'.format(lastMonthStart))
+    pd.DataFrame.to_csv(df,'USER_PATHXXX/WatfordWeatherSociety/1/Data/{}.csv'.format(lastMonthStart))
     lastMonthStart = lastMonthStart + timedelta(days=1)
