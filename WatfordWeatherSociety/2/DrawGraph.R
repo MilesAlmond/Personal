@@ -8,11 +8,11 @@ library(cowplot)
 prevMonth = Sys.Date() - months(1)
 justMonth = format(prevMonth,"%Y-%m")
 pdfTitle1 = paste(justMonth,".pdf",sep="")
-pdfTitle = paste("C:/Users/Alison/Documents/WatfordWeatherSociety/2/Graphs/",pdfTitle1,sep="")
+pdfTitle = paste("USER_PATHXXX/WatfordWeatherSociety/2/Graphs/",pdfTitle1,sep="")
 round_any = function(x, accuracy, f=round){f(x/ accuracy) * accuracy}
 
 
-list.files('C:/Users/Alison/Documents/WatfordWeatherSociety/1/Data',full.names=TRUE,pattern=justMonth) %>% lapply(read_csv) %>% bind_rows -> myDF
+list.files('USER_PATHXXX/WatfordWeatherSociety/1/Data',full.names=TRUE,pattern=justMonth) %>% lapply(read_csv) %>% bind_rows -> myDF
 as.Date(myDF$Date,format = "%d") -> myDF$Date
 round((myDF$AveragePressure)*0.029529983071445,2) -> myDF$AveragePressure
 
