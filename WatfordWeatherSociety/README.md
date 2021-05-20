@@ -18,4 +18,6 @@ My grandfather had a true passion for the weather. From around the age of 20 (th
 
 ## Issues Along the Way
 
+## Final Product
+
 ## Remarks and Learnings for the Future
