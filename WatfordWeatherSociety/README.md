@@ -34,4 +34,6 @@ Another issue I encountered is that some weather APIs change their structure in 
 
 ## Final Product
 
-The final product came out exactly as I had desired, and putting his original graphs side-by-side with mine [PICTURES TO BE POSTED HERE], I was really impressed with not only what I'd achieved, but in what it does to honour his memory and commitment to weather records. While I was already quite interested in programming before, this project really kicked off my love for it and my passion for statistics, programming, and data science has grown consistently ever since!
+The final product came out exactly as I had desired, and putting his original graphs side-by-side with mine [Pictures of his graphs to be added], I was really impressed with not only what I'd achieved, but in what it does to honour his memory and commitment to weather records. While I was already quite interested in programming before, this project really kicked off my love for it and my passion for statistics, programming, and data science has grown consistently ever since!
+
+[My May 2020 Graph](https://github.com/MilesAlmond/Personal/files/8072610/2020-05.pdf)
