@@ -3,7 +3,20 @@ I did this by simulating the 10,000,000 games of each character, counting their 
 
 NOTE: This project is still currently underway, and so the code is messy and lacks comments in some areas. The plan for this project is to eventually incorporate it into a Communicating Maths module at university, where I will create a video around the background and analysis of this project.
 
-Results:
+# Board
+
+I made the board as both a visual aid and as a way to debug issues and check that the game was carrying out in the way that I had intended:
+
+![Board](https://user-images.githubusercontent.com/80479216/154105632-cd8b0215-3279-4be6-bdc4-744faa1c8f0a.png)
+
+# Console Readout
+
+Print statements allowed me to see the rolls and positions at each point as the program ran:
+
+![Console Readout](https://user-images.githubusercontent.com/80479216/154106138-5cc9e107-4afd-491d-bd79-7ac6d2fb6d71.png)
+
+# Results
+
 Preliminary results suggest that Jeremy Fisher is a few moves slower than the other characters on average, with Peter Rabbit having a very slight lead overall.
 
 ## Histograms
