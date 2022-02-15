@@ -6,6 +6,14 @@ NOTE: This project is still currently underway, and so the code is messy and lac
 Results:
 Preliminary results suggest that Jeremy Fisher is a few moves slower than the other characters on average, with Peter Rabbit having a very slight lead overall.
 
+## Histograms
+
+These are the histograms for the number of rolls for each character, with 0.025, 0.5, and 0.975 quantiles:
+
 ![Histograms for Each Character (with 0.025,0.5,and0.975 quantiles)](https://user-images.githubusercontent.com/80479216/154103797-787a8f05-c0c0-49ea-87c0-c93d2a7f69cb.png)
+
+## Winning Probabilities
+
+These are the winning probabilities for each character:
 
 ![Winning Probabilities for Each Character](https://user-images.githubusercontent.com/80479216/154101903-af0cdf95-003f-4e08-9e1d-19d12642f224.png)
