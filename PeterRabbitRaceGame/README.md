@@ -1,7 +1,7 @@
 This is a project I undertook to find out who the best character was in the Peter Rabbit Race Game, a game created in 1917 by Beatrix Potter, that has a concept similar to snakes and ladders, but with four different characters all on their own paths.
 I did this by simulating the 10,000,000 games of each character, counting their amount of turns, and comparing these to each other.
 
-NOTE: This project is still currently underway, and so the code is messy and lacks comments in some areas. The plan for this project is to eventually incorporate it into a Communicating Maths module at university, where I will create a video around the background and analysis of this project.
+**NOTE: This project is still currently underway, and so the code is messy and lacks comments in some areas. The plan for this project is to eventually incorporate it into a Communicating Maths module at university, where I will create a video around the background and analysis of this project.**
 
 # Board
 
